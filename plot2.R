@@ -1,4 +1,4 @@
-# Load and store data into variable 'data'
+# Load and store data into variable 'DATA'
 source("loader.R")
 
 png(file = "plot2.png", width = 480, height = 480, units = "px") ## Open PNG device
